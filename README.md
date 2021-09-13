@@ -1,7 +1,3 @@
-# Resolução dos testes - Tinnova
-
-Os projetos nesta pasta foram criado para resolver os itens listados no desfio da Tinnova.
-
 ## Conteúdo
 
 * demais desafios:
